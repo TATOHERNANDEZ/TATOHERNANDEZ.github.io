@@ -1,0 +1,308 @@
+<html><head><meta name="color-scheme" content="light dark"><style type="text/css" id="operaUserStyle"></style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
+
+
+ATARRAYA
+       Resistencia
+               1 Comunidad-Conflicto: Un pueblo en un territorio por la voluntad de permanecer
+               1 Objeto-Conflicto: Las practicas son a la voluntad de permancer
+               1 Objeto-Conflicto: El objeto muta para adaptarse a los cambios de la realidad actual        
+
+       Espacio-Tiempo 
+               1 Espacio-Tiempo:El Objeto NO retorna a su estado original - CARGAR
+               1 Cargar-Simbolico: Materializaciòn Plastica + Significado Adicional - CARGAR 
+               1 Territorio-Conflicto: El ecosistema se ve afectado por las nuevas practicas 
+               1 Objeto-Abandonar: El desplazamiento inhibe a las practicas 
+               1 Comunidad-Desplazar: El conocimiento y las practicas se pierden
+               1 Territorio-Abandonar: La Memoria queda en el espacio "Nociòn Fisica Terriorial"
+               1 Territorio-Abandonar: La Memoria se desplaza con el ser que la porta
+               1 Territorio-Mantener: Se mantiene intacto hasta que se interviene 
+               1 Objeto-Mantener: El objeto que queda se mantiene 
+               1 Objeto-Desgastar: El objeto que se desplaza se usa
+               1 Objeto-Uso: El objeto se carga de nuevos usos en el desplazamiento  
+               1 Abandonar
+               1 Desplazar
+               1 Mantener
+               1 Desgastar
+               1 Cargar
+               
+       Memoria
+               1 Memorias-Verdades: Memoria no es Verdad, memoria son verdades 
+               1 Memoria-Oficial: Memoria del conflicto nacional Historicamente
+               1 Memoria-No Oficial:Memoria desde los seres Invisibilizaciòn de la realidad
+               1 Memoria-Colectiva:
+               1 Memoria-Personal:
+               1 Memoria-Contemplaciòn: 
+               1 Memoria-Comunidad
+               1 Memoria-Memoria
+               1 Memoria-Contraste
+               1 Memoria-Interpretaciòn
+               1 Memoria-Metamemoria
+
+       Anti Objeto
+               1 No-Uso: Nuevas interpretaciones del uso original del Objeto
+               1 Asigar-Cargas: Nuevos usos construyen nuevas memorias
+
+       Desmaterializaciòn
+               1 Objeto-Conocimiento: El ser porta el conocimiento para construir el objeto
+               1 Objeto-Tecnica: Si la comunidad no esta la tecnica se pierde
+               1 Objeto-Practica: Si la comunidad no esta la practica se pierde
+               1 M
+
+       Objeto que ve y NO cuenta
+               1
+               1
+               1
+               1
+
+TÉCNICA
+       Chinchorro
+               1 Macho-No Seno: El tejido no lleva Bolsa
+               1 Hembra-Seno: Lleva Seno para Atrapar Pescado
+               3 Arrastre-Barral: Arrastra pescado a lo largo, El barral mantiene la estructura
+               1 Palos-Estructura: Lleva un palo en cada lado
+               4 Boyas-Tener: Tiene Boyas para hacerle flotar
+               2 Largo-80-90Mts: Mide entre 80-90Mts
+               2 Ancho-Mallas: Tiene entre 35 mallas de 4 puntos cada una
+       
+       Trasmallo
+               1 Mala-No Seno: Es mala no lleva Seno
+               3 Dejar-Rodar: Se deja Rodar
+               4 Sin-Plomada: No lleva plomada
+               4 Con-Plomada: Lleva plomada
+               2 Cinco-Puntos: Ojo cinco puntos
+               2 Mediana-Metros: Es de 4-5Mts
+               4 Boyas-Tener: Tiene Boyas para hacerle flotar
+               3 Extender-Canoa: Se extiende con Canoa (Tiene motor)
+
+       Barredora
+               2 Grande-Metros: Es la mas grande 18-20Mts
+               3 Extender-Canoa: Se extiende con Canoa (Tiene motor)
+               2 Atarraya-Gigante: Es Atarraya Gigante
+               3 Trompear-Recoger: Cuando se Trompea se recoge 
+              
+       Carnadera
+               2 Atarraya-Pequeña: Es Atarraya pequeña
+               2 Pequeña-Pescado: 2Mts Pescado de carnada
+
+       Atarraya  
+               2 Mediana-Pescado: 6Mts Para todo Pescado  
+               2 Mallas-Velo: Velo compuesto de 400-500 Mallas
+               2 Mallas-Comenzar: Con 28 Mallas empieza
+               1 Ombligo-Partes: Es una parte de la estructura
+               5 Hijos-Adiciones: Cada hijo es una adición de tejido
+               5 Pala-Aguja: Se teje con Aguja y Pala
+               4 Plomada-Hundir: Se coloca plomada para hundirla
+               5 Cordel-Material: Se teje con Cordel y Aguja
+               1 Seno-Atrapar: Bolsa que atrapa los pescados
+               5 Malla-Hijo: Malla por medio hijo- cada dos hijos aumenta
+               3 Arropar-Tamborear: Se Tamborea el Tronco para que el pescado salga y quede atrapado
+               3 Canoa-Potrillo: Se transportan en Canoa motor o Potrillo con remo 
+               3 Orilla-Usar: Se usa desde la Orilla del Rio
+               5 Ojos-Tamaño: Los puntos del ojo dependen del tamaño del pescado
+
+       Espinel
+               4 Trampa-Extenso: Esta compuesto por Guaral y Rendal
+               2 Extenso-Simple: El Guaral mide 10Mts o mas
+
+       Rendal
+               4 Trampa-Pequeño: Esta compuesto por Guaral-Plomo, Anzuelo
+              
+       Formas de red
+               5 Dos Puntadas-Ojo: Ojo de 2 puntadas es Nicurera
+               5 Tres Puntadas-Ojo: Ojo de 3 puntadas es Bacachiquera
+               5 Cuatro Puntadas-Ojo: Ojo de 4 puntadas es Yamucera
+               2 Trasmallo-Mediano: Para pescado mediano
+               2 Barredora-Gigante: Es Atarraya Gigante
+               2 Chinchorro-Extenso: Mide entre 80-90Mts
+             2-4 Espinel-Extenso: Mide 10Mts o mas
+
+SERES VIVOS
+       Ecosistema
+               6 Comunidades-Territorio: Comunidades Indigenas Nativas
+               6 Comunidades-Territorio: Comunidades Campensinas
+               6 Comunidades-Territorio: Comunidades Externas
+               6 Comunidades-Territorio: Otras Comunidades
+
+       Ecosistema Daño
+               6 Pesca-Aumento:800 motores (1600 hombres pescando)
+
+               7 Herradicar-Coca: Maticas de coca se sostiene uno, Ahora no, 
+                                  no cumplen con lo que prometen
+       Agentes 
+               7 Prohibición-Autoridad:La otra autoridad tiene prohibido usar Trasmallo
+                
+               3 Peces-Atrapar: Los Peces se esconden por debajo de los troncos y con la atarraya 
+                                se arropa y se tamborea para que salgan y quedan atrapados
+       Fauna     
+                 Acuatica-Terrestre:Tortuga de rio (Tereca)
+                 Acuatica-Pequeña: Simi
+                 Acuatica-Pequeña: Sardina
+             8-9 Acuatica-Pequeña: Nicuro
+                 Acuatica-Pequeña: Mariscos de Rio
+                 Acuatica-Mediana: Piraña
+                 Acuatica-Mediana: Caribe
+            9-11 Acuatica-Mediana: Palometa
+            9-11 Acuatica-Mediana: Cucha
+                 Acuatica-Mediana: Mojarra
+                 Acuatica-Mediana: Capaz
+                 Acuatica-Mediana: Bocachico
+                 Acuatica-Grande: Delfín de rio (Tonina)
+                 Acuatica-Grande: Blanquillo
+                 Acuatica-Grande: Curbinata
+                 Acuatica-Grande: Cachama
+                 Acuatica-Grande: Yamu
+          8-9-11 Acuatica-Grande: Bocachico
+                 Acuatica-Gigante: Bagre
+               7 Acuatica-Gigante: Valenton
+                 Acuatica-Gigante: Robalo
+                 Acuatica-Gigante: Amarillo
+                 Acuatica-Gigante: Dorado (Taki)
+            9-11 Acuatica-Gigante: Payala
+                 Terrestre: Armadillo
+                 Terrestre: Zahino
+                 Terrestre: Cajuche
+                 Terrestre: Danta
+                 Terrestre: Pajuil
+                 Terrestre: Venado
+                 Aereos: Gaviota
+                 Aereos: Loro
+
+       Flora
+                 Bosques-Nativos: Amazonia, Orinoquia
+                 Arboles-Nativos: Cedro
+                 Arboles-Nativos: Achapo
+                 Arboles-Nativos: Flor Morado
+                 Arboles-Nativos: Flor Amarillo
+                 Arboles-Nativos: Árbol de Aceite
+                 Palmas-Nativas: Palma de Wichire
+                 Palmas-Nativas: Palmas
+                 Semillas-Nativas: Semilla de Yuca
+                 Semillas-Nativas: Platano
+
+               7 Sostenimiento-Maleza: Maticas de coca se sostiene uno, Ahora no, 
+                                       no cumplen con lo que prometen
+
+LUGARES
+       Lugares de pesca
+                 Caños-Lagunas-Rios-Charcos: Caño Danta
+                 Caños-Lagunas-Rios-Charcos: Caño Jabón
+                 Caños-Lagunas-Rios-Charcos: Caño Perro
+                 Caños-Lagunas-Rios-Charcos: Caño Negro
+                 Caños-Lagunas-Rios-Charcos: Bocana de Caños
+                 Caños-Lagunas-Rios-Charcos: Caño Danta
+                 Caños-Lagunas-Rios-Charcos: Rio Orinoco
+                 Caños-Lagunas-Rios-Charcos: Rio Guaviare
+                 Caños-Lagunas-Rios-Charcos: Rio Ariari   
+       Rio
+               3 Preparar-Atarraya: A la orilla del Rio se arregla la Atarraya
+                 Remolinos-Profundidad: Rio Orinoco, tiene moyocas (Remolinos) muy profundas
+                 Subienda-Diciembre: El pescado sale de las lagunas en comienzos de Diciembre
+               3 Troncos-Tamboear: Troncos Semihundidos
+               3 Carnadera-Orilla: Carnadera se usa en charcos, en las orillas
+             8-9 Chinchorro-Nicuro: Se usa en cualquier rio para coger Nicuro
+          8-9-11 Chinchorra-Bocachico: Se usa para coger Bochachico 
+
+PRATICAS
+       Preparaciones
+               9 Rajar-Pescado Cuero:Si es pescado de Cuero, se lava, se raja por la mitad 
+                                     se le sacan las tripas, si tiene huevos se sacan aparte
+
+            9-11 Cortar-Cucha: La Cucha se arregla por la cabeza se corta la cabeza parte y con los 
+                               dedos saca la tripa y le quitan una tela Negra para quitar el amargo
+
+            9-11 Escamas-Pescado:Bocachico, Payala, Palometa, todo pescado con escama se puede Moquiar, 
+                                 fritar o en Caldo 
+
+            9-11 Descamar-Bocachico: Si es Bocachico lo descaman
+             8-9 Sudar-Nicuro: Nicuro Sudado
+               9 Pescado-Cuero: Pescado de cuero, se come seco, sudado, frito apanado
+            9-11 Pescado-Cucha: La cucha se toma en caldo, se hace chocolate
+
+       VEDA
+               7 NO.VEDA-Abundancia: Valeton 17 Arrobas- 17 Libras
+               7 NO.VEDA-Abundancia: 2 lances y llevada de producción (1986-1994)
+               7 4 Horas-4 Pescados: Sobre pesca, No hay peces, Se acabo
+               7 Daño Ecosistema-Escasez: 800 Motores pescando Rio
+                 No cumplir-Reglamentos: Pescadores NO cumplen con el reglamento por desconocimiento
+                 Necesidad-Sostenimiento: La necesidad de la Familia se van a la pesca
+               7 Cohibir-Agentes:Ejercito Cohibe la pesca
+               7 Prohibir-Agentes: La Farc Prohibe la pesca
+               7 Cohibir-Agentes: Grupos Armados cohiben la pesca
+
+GRUPOS
+       Intervenir
+                 Comunidad-PNUD: Programa de las Naciones Unidas para el Desarrollo
+                 Comunidad-FAO: Organización de las Naciones Unidas para la Alimentación y la Agricultura
+                 Comunidad-Acción Social: Construir Comunidad para la paz y el desarrollo
+                 Comunidad-Biblioteca: Resultados de construcción comunitaria repositorio de información
+                 Comunidad-Casa Cultural: Resultados de construcción comunitaria repositorio de información
+                 Comunidad-Gobernación: Programas para el territorio, Se cumple o NO
+               7 Comunidad-Grupos Armados: Cambio de realidad
+              10 Comunidad-Comisión de la Verdad:Construcción de Paz
+              10 Comunidad-Grupo Investigación:Construcción nuevas Memorias
+                 Comunidad-ACNUR: Reconstrucción de las practicas en el Territorio año 2010
+                 Campesinos-Indigenas:Nukak: Fundación hasta encontranos, vida paz, Junta de Acción comunal
+                 Niñez-ICBF: Protección de los niños y las familias en la comunidad
+               7 Supervivencia-Policia: Erradicar los Cultivos
+               7 Pesca-Ejercito: Cohibir la pesca
+                 Pesca-INDERENA: Determina el tamaño de las Atarrayas
+
+RELATOS
+       Ritos
+                 Pesca-Buena: Cuentan que los pescadores para tener una buena pesca 
+                              le llevan aguardiente y Cigarrillos o Tabaco al Mohán
+
+       Creencias
+                 Personaje-Tonina: Tonina: es como una foca, si escucha a un niño llorando ella sale, si alguna persona 
+                                           cae al Rio, si es hombre la Tonina lo saca, si es mujer la hunde o lo contrario
+
+          8-9-11 Balso-Bocachico: Cuentan que el que se come el Balso del Bocachico aprende a nadar
+            9-11 Cucha-Consumir: Cuenta que el que come Cucha de ojos Azules al consumirlo en Abundancia le sale el Hijo con los ojos Azules
+                 Atarraya-Espiritus del Agua: Se escucha al rudio del cardura de pescado, se echa la atarraya y no se saca nada
+                 Mohan-Mohana: Tabaco y aguardiente para ofrecer
+                 Conocimiento-Cambio: En cada decada van cambiando las cosas, los espiritus
+               9 Desconocimiento-Externos:En Bogotá todo el pescado de cuero es bagre, no saben que clase de pescado se comen
+
+       Mitos y Leyendas
+              11 La Lavandera
+              11 El Embotado
+              11 El Bambero
+              11 Bola de Fuego
+
+       Narrativas
+               7 Pesca-Valenton: Un Valenton de 17 libras 
+              10 Atarraya-Resistencia: Ser parte del Territorio, Identidad 
+              10 Nido de Arrendajos-Atarraya: Entrega Comisión de la Verdad
+               7 Desplazamiento-Vivencias: Vivimos Bueno hasta el 2000 y 2002 salimos desplazados
+                 Objeto-Conflicto: Las practicas son a la voluntad de permancer                 
+
+                 1920 Abuelos Paternos nacen
+                 1950 7 Familias llegan del Vichada al Guaviare
+                 1950 Bogotazo, violencia impacta, ancestros salen del territorio
+                 1970 Primeros docentes - Fer y vicariato Vaupés
+                 1970 Misiones evangelicas del Vaupés y el Guaviare 
+                 1978 Don Ambrosio fundador de Charras 70-75
+                 1978 Comercialización de pieles 1975-1980
+                 1980 Cultivos de Maiz, Algodon, Comercialización 1980-1983
+                 1984 Entre 1988-1990 Fundación Charras
+                 1984 Contacto con Coca- afecta usos costumbres, mano de obra, raspachines. afectar trabajo
+                 1986 Don Claudio llega del Magdalena Medio
+                 1986 Trabajo en tomas de Coca
+                 1991 "El que trabaja come" 90s
+                 1992 Telecom
+                 1993 Tienda Angela en Charras
+                 1991 LLegada Paramilitares 16 UULID 1197
+                 1997 Masacre Mapiripan
+                 2002 Desplazamiento masivo Charra
+                 2001 Desplazamiento forzado
+                 2002 Desplazamiento forzado
+                 2006 Retorno del desplazamiento
+                 2007 Desplazada de miraflores
+                 2009 Reabieron internado admistrado por Gobernación
+                 2010 ACNUR trae algunas plantas
+                 2016 Establecimiento zona de transición Veredal
+                 2017 Llegada programa sustituir cultivos
+                 2019 Participación Elecciones Concejo S.S Willian Campo
+                 2022 Grupo de Investigación, Semillero, UTADEO y aliados
+
+  </pre></body></html>

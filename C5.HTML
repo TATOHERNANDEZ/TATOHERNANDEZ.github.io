@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Document</title>
+<style>
+  body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Ocultar la barra de desplazamiento general */
+    overflow: hidden;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: row; /* Cambiado a dirección horizontal */
+    padding: 20px;
+  }
+
+  #imagenContainer {
+    width: 800px;
+    height: 700px;
+    background-color: white;
+    float: right; /* Mueve la imagen a la derecha */
+    margin-left: 20px; /* Espacio entre la tabla y la imagen */
+    border-radius: 10px;
+    overflow-y: auto; /* Agregar desplazamiento vertical para el contenedor de imagen */
+  }
+
+  /* Estilos del menú */
+  #menu {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 0;
+    width: 100%;
+  }
+
+  #menu a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  #menu a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+
+  /* Estilos de la tabla */
+  #tableContainer {
+    max-height: 90vh;
+    overflow-y: auto; /* Mantener la barra de desplazamiento vertical para la tabla */
+    overflow-x: hidden;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin-bottom: 20px;
+    float: left; /* Mueve la tabla a la izquierda */
+  }
+
+  #text {
+    color: white;
+  }
+
+  /* Estilos de la barra de desplazamiento de la tabla */
+  #tableContainer::-webkit-scrollbar {
+    width: 10px; /* Ancho de la barra de desplazamiento */
+    background-color: black; /* Color de fondo de la barra de desplazamiento */
+  }
+
+  #tableContainer::-webkit-scrollbar-thumb {
+    background-color: gray; /* Color del pulgar de la barra de desplazamiento */
+    border-radius: 5px; /* Borde redondeado del pulgar de la barra de desplazamiento */
+  }
+
+  /* Media query para ajustar estilos en pantallas pequeñas */
+  @media screen and (max-width: 600px) {
+    #container {
+      flex-direction: column; /* Cambiado a dirección vertical en pantallas pequeñas */
+      padding: 10px;
+    }
+    #tableContainer {
+      padding: 10px;
+      width: 100%; /* Ancho completo en pantallas pequeñas */
+    }
+    #imagenContainer {
+      width: 100%; /* Ancho completo en pantallas pequeñas */
+      margin-left: 0; /* Sin margen en pantallas pequeñas */
+      float: none; /* Sin flotación en pantallas pequeñas */
+      margin-top: 20px; /* Espacio entre la tabla y la imagen en pantallas pequeñas */
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- Menú -->
+<div id="menu">
+  <a href="https://drive.google.com/file/d/11VEXZKCMsVrgJKF_2EhhLztqumqQEOdg/view?usp=drive_link">Inicio</a>
+  <a href="#">Productos</a>
+  <a href="#">Contacto</a>
+</div>
+
+<div id="container">
+  <div id="imagenContainer"></div> <!-- Contenedor de la imagen -->
+  <div id="tableContainer">
+    <pre id="text">
+ATARRAYA
+       Resistencia
+               1 Comunidad-Conflicto: Un pueblo en un territorio por la voluntad de permanecer
+               1 Objeto-Conflicto: Las practicas son a la voluntad de permancer
+               1 Objeto-Conflicto: El objeto muta para adaptarse a los cambios de la realidad actual        
+
+       Espacio-Tiempo 
+               1 Espacio-Tiempo:El Objeto NO retorna a su estado original - CARGAR
+               1 Cargar-Simbolico: Materializaciòn Plastica + Significado Adicional - CARGAR 
+               1 Territorio-Conflicto: El ecosistema se ve afectado por las nuevas practicas 
+               1 Objeto-Abandonar: El desplazamiento inhibe a las practicas 
+               1 Comunidad-Desplazar: El conocimiento y las practicas se pierden
+               1 Territorio-Abandonar: La Memoria queda en el espacio "Nociòn Fisica Terriorial"
+               1 Territorio-Abandonar: La Memoria se desplaza con el ser que la porta
+               1 Territorio-Mantener: Se mantiene intacto hasta que se interviene 
+               1 Objeto-Mantener: El objeto que queda se mantiene 
+               1 Objeto-Desgastar: El objeto que se desplaza se usa
+               1 Objeto-Uso: El objeto se carga de nuevos usos en el desplazamiento  
+               1 Abandonar
+               1 Desplazar
+               1 Mantener
+               1 Desgastar
+               1 Cargar
+    </pre>
+  </div>
+</div>
+
+</body>
+</html>
